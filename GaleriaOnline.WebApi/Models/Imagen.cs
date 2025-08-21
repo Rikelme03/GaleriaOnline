@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
 namespace GaleriaOnline.WebApi.Models;
-
+//Tabela: Imagens
 public partial class Imagen
 {
     [Key]

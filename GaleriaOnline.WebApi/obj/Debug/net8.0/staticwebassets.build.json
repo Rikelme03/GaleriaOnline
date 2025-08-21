@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9XT33rU7OzwliQh1XUdwFdSzsC5q0ew9mtOTx3NN1BE=",
+  "Hash": "LpVphwQ363bHHIAfVZoYKDo82ue+dbT3IdLKOapdnAk=",
   "Source": "GaleriaOnline.WebApi",
   "BasePath": "_content/GaleriaOnline.WebApi",
   "Mode": "Default",
@@ -36,6 +36,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\19628e2b-63a1-4b51-b7bd-6307dfe4cb81.png"
+    },
+    {
+      "Identity": "C:\\Users\\47540013893\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\1ae582d6-0b12-4702-beaf-e7d134130a16.png",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47540013893\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/1ae582d6-0b12-4702-beaf-e7d134130a16#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3eg8dttag8",
+      "Integrity": "+xWL9ElBoFx91ZmL4qOUxQ8hUrtbVpuR9TWJH2CRGUw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\1ae582d6-0b12-4702-beaf-e7d134130a16.png"
     },
     {
       "Identity": "C:\\Users\\47540013893\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\45ce2eec-c545-409d-82b4-fbf92a38b992.jpg",
@@ -286,6 +307,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-m+ovHjZp2k945JN78fde2DcEiDuFNsFfBBxUjNJd4/s="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/1ae582d6-0b12-4702-beaf-e7d134130a16.3eg8dttag8.png",
+      "AssetFile": "C:\\Users\\47540013893\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\1ae582d6-0b12-4702-beaf-e7d134130a16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "485689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xWL9ElBoFx91ZmL4qOUxQ8hUrtbVpuR9TWJH2CRGUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 19:45:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3eg8dttag8"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/1ae582d6-0b12-4702-beaf-e7d134130a16.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xWL9ElBoFx91ZmL4qOUxQ8hUrtbVpuR9TWJH2CRGUw="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/1ae582d6-0b12-4702-beaf-e7d134130a16.png",
+      "AssetFile": "C:\\Users\\47540013893\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\1ae582d6-0b12-4702-beaf-e7d134130a16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "485689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xWL9ElBoFx91ZmL4qOUxQ8hUrtbVpuR9TWJH2CRGUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 19:45:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xWL9ElBoFx91ZmL4qOUxQ8hUrtbVpuR9TWJH2CRGUw="
         }
       ]
     },

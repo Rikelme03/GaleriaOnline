@@ -58,8 +58,7 @@
               "RelativeToolTip": "DTO\\PutImagemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T19:00:50.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T19:00:50.674Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "DTO\\ImagemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:47:20.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:47:20.739Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "Controllers\\ImagemController.cs",
               "ViewState": "AgIAAJUAAAAAAAAAAAAIwKQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:37:27.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:37:27.689Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T16:17:33.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:17:33.505Z"
             },
             {
               "$type": "Document",
@@ -108,7 +104,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\47540013893\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T16:09:28.511Z",
               "EditorCaption": ""
@@ -116,15 +112,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GaleriaOnline.WebApi",
+              "Title": "GaleriaOnline.WebApi.csproj",
               "DocumentMoniker": "C:\\Users\\47540013893\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
               "RelativeDocumentMoniker": "GaleriaOnline.WebApi.csproj",
               "ToolTip": "C:\\Users\\47540013893\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
               "RelativeToolTip": "GaleriaOnline.WebApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-19T16:09:24.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:09:24.273Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Repositories\\ImagemRepository.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAgwB4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T14:29:39.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T14:29:39.023Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Interfaces\\IImagemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T14:20:14.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T14:20:14.845Z"
             }
           ]
         }

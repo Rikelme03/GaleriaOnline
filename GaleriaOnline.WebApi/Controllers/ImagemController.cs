@@ -76,7 +76,7 @@ namespace GaleriaOnline.WebApi.Controllers
             return CreatedAtAction(nameof(GetImagemPorId), new { id = imagem.Id }, imagem);
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         public async Task<IActionResult> AtualizarImagem(int id, PutImagemDto imagemAtualizada)
         {
             var imagem = await _repository.GetByIdAsync(id);
@@ -132,7 +132,7 @@ namespace GaleriaOnline.WebApi.Controllers
             return Ok(imagem);
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeletarImagem(int id)
         {
             var imagem = await _repository.GetByIdAsync(id);
